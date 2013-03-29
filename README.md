@@ -1,2 +1,2 @@
-Gitify
+Gitify from master
 ======
