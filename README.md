@@ -1,2 +1,2 @@
-gitify
+Gitify
 ======
