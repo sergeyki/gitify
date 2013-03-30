@@ -1,3 +1,3 @@
 Gitify from master
 ======
-git diff
+git diff from master
